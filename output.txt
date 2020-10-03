@@ -1,0 +1,3 @@
+Enter data
+Bit Stuffing=1234
+De Stuffing=1234
